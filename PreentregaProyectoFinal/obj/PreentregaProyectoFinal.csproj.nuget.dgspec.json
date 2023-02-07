@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ST\\source\\repos\\CoderHouse\\PreentregaProyectoFinal\\PreentregaProyectoFinal\\PreentregaProyectoFinal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ST\\source\\repos\\CoderHouse\\PreentregaProyectoFinal\\PreentregaProyectoFinal\\PreentregaProyectoFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ST\\source\\repos\\CoderHouse\\PreentregaProyectoFinal\\PreentregaProyectoFinal\\PreentregaProyectoFinal.csproj",
+        "projectName": "PreentregaProyectoFinal",
+        "projectPath": "C:\\Users\\ST\\source\\repos\\CoderHouse\\PreentregaProyectoFinal\\PreentregaProyectoFinal\\PreentregaProyectoFinal.csproj",
+        "packagesPath": "C:\\Users\\ST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ST\\source\\repos\\CoderHouse\\PreentregaProyectoFinal\\PreentregaProyectoFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
